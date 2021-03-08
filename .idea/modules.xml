@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Kafka.iml" filepath="$PROJECT_DIR$/.idea/Spring-Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springKafkaProducer/springKafka.iml" filepath="$PROJECT_DIR$/springKafkaProducer/springKafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springKafkaConsumer/springKafkaConsumer.iml" filepath="$PROJECT_DIR$/springKafkaConsumer/springKafkaConsumer.iml" />
+    </modules>
+  </component>
+</project>
